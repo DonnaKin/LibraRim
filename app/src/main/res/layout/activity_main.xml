@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RE xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.AppCompat.Light"
+    tools:context="com.example.minkyung.librarim.MainActivity">
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="134dp"
+        android:layout_height="125dp"
+        app:srcCompat="@drawable/btn_search"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="639dp"
+        tools:layout_editor_absoluteY="119dp" />
+
+    <SearchView
+        android:layout_width="614dp"
+        android:layout_height="121dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="119dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView3"
+        android:layout_width="162dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="389dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView4"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="415dp"
+        tools:layout_editor_absoluteY="389dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView5"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="227dp"
+        tools:layout_editor_absoluteY="389dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView6"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="609dp"
+        tools:layout_editor_absoluteY="389dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView7"
+        android:layout_width="162dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="785dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView8"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="415dp"
+        tools:layout_editor_absoluteY="785dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView9"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="227dp"
+        tools:layout_editor_absoluteY="785dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageView10"
+        android:layout_width="164dp"
+        android:layout_height="236dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="609dp"
+        tools:layout_editor_absoluteY="785dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="473dp"
+        android:layout_height="114dp"
+        app:srcCompat="@drawable/hotbook"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="256dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="154dp"
+        android:layout_height="114dp"
+        app:srcCompat="@drawable/btn_more"
+        tools:layout_editor_absoluteX="619dp"
+        tools:layout_editor_absoluteY="256dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="462dp"
+        android:layout_height="114dp"
+        app:srcCompat="@drawable/newbook"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="647dp"
+        tools:ignore="MissingConstraints" />
+
+</RE>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_dessci"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_art"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="441dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_reli"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="441dp"
+        tools:layout_editor_absoluteY="930dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_sosci"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="441dp"
+        tools:layout_editor_absoluteY="352dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_nas"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="550dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_phil"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="441dp"
+        tools:layout_editor_absoluteY="550dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_tof"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="740dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_lang"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="441dp"
+        tools:layout_editor_absoluteY="740dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_lit"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="930dp" />
+
+    <ImageButton
+        android:layout_width="280dp"
+        android:layout_height="130dp"
+        android:onClick="onClick"
+        android:padding="0sp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/btn_his"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="96dp"
+        tools:layout_editor_absoluteY="352dp" />
+</android.support.constraint.ConstraintLayout>
